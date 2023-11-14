@@ -43,6 +43,33 @@ def parse_chunk_with_gpt(chunk, openai_api_key):
 
     return response.choices[0].message.content, response.usage.total_tokens
 
+def parse_chunks_with_gpt(chunks, openai_api_key):
+    openai.api_key = openai_api_key
+
+    messages=[
+        {"role": "system", "content": "You are a helpful assistant capable of understanding and speaking Italian."},
+        {"role": "user", "content": f"Ti invio i pezzi della trascrizione della riunione:\n\n###{chunks[0]}###"}
+    ]
+    for chunk in chunks:
+        #append to messages the last chunk
+        messages.append({"role": "user", "content": f"###{chunk}###"})
+        
+    messages.append({"role": "user", "content": f"crea il verbale della riunione"})
+        
+
+    response =openai.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=messages
+
+    )
+
+    print(response.choices[0].message.content)
+    print("total tokens",response.usage.total_tokens)
+    print("-------------------")
+
+    return response.choices[0].message.content, response.usage.total_tokens
+
+
 
 def generate_meeting_minutes(file_path):
     openai_api_key = os.getenv('OPENAI_API_KEY')
@@ -54,10 +81,12 @@ def generate_meeting_minutes(file_path):
     meeting_minutes = []
     total_tokens = 0
 
-    for chunk in chunks:
-        parsed_chunk, tokens = parse_chunk_with_gpt(chunk, openai_api_key)
-        meeting_minutes.append(parsed_chunk)
-        total_tokens += tokens
+    # for chunk in chunks:
+    #     parsed_chunk, tokens = parse_chunk_with_gpt(chunk, openai_api_key)
+    #     meeting_minutes.append(parsed_chunk)
+    #     total_tokens += tokens
+
+    meeting_minutes, total_tokens = parse_chunks_with_gpt(chunks, openai_api_key)
 
     return '\n'.join(meeting_minutes), total_tokens
 
