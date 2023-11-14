@@ -1,0 +1,243 @@
+Donnici: Intendo che è possibile definire dei buffer per il budget del progetto, cioè delle riserve di denaro da utilizzare in caso di imprevisti. 
+
+Alessandro Donnici: Riguardo alla gestione dei fornitori, avevi menzionato la possibilità di utilizzare il modulo di HDA. 
+
+Guzzo Emiliano: Sì, esatto. Nel modulo di HDA è possibile registrare i codici dei fornitori esterni che saranno associati al progetto per la fatturazione. 
+
+Alessandro Donnici: Capito. E per quanto riguarda l'amministrazione, come vengono gestite le informazioni?
+
+Guzzo Emiliano: Le stesse informazioni vengono utilizzate anche per l'amministrazione del progetto, ad esempio per la gestione del budget e per definire gli obiettivi del progetto. 
+
+Alessandro Donnici: Va bene. Vorremmo anche utilizzare queste informazioni per creare un project chatter interno, in modo che siano facilmente accessibili ai project manager. 
+
+Guzzo Emiliano: Esatto. Inoltre, vorremmo sapere se HDA offre funzionalità per la gestione degli stakeholder, ad esempio con la possibilità di compilare survey per raccogliere informazioni da analizzare.
+
+Alessandro Donnici: Al momento, HDA non dispone di funzionalità specifiche per la gestione degli stakeholder, come la creazione di grafici. 
+
+Guzzo Emiliano: Ho capito. Continuando con la discussione, riguardo alle BS e al concetto di task, vorrei avere delle delucidazioni.
+
+Alessandro Donnici: Certamente. Le BS, o brevi specifiche, sono una parte importante del processo di pianificazione del progetto. Le BS vanno a creare la baseline di progetto, che rappresenta una sorta di linea guida iniziale per il progetto. 
+
+Guzzo Emiliano: Capito. E per quanto riguarda il monitoraggio del progetto, quali strumenti ci sono disponibili?
+
+Alessandro Donnici: Durante le demo è stata menzionata la possibilità di utilizzare delle metriche classiche per monitorare il progetto, come EC, AGNEL e Valium. Inoltre, è possibile definire dei buffer di tempo e di budget per il progetto. HDA fornisce delle piccole dashboard per monitorare lo stato del progetto sia nel demand che nella scheda di dettaglio del progetto. 
+
+Guzzo Emiliano: Ottimo, quindi è possibile avere una visione completa delle attività e del loro andamento. 
+
+Gregori Luigi: Scusate, ma cosa intendete per buffer? 
+
+Alessandro Donnici: Intendo che è possibile definire delle riserve di tempo e di denaro da utilizzare in caso di imprevisti durante il progetto.
+Verbale di riunione
+
+Partecipanti: Donnici, Guzzo Emiliano, Gregori Luigi
+
+Donnici: Ci sono le Portfolio, c'è il Portfolio Eh.
+Alessandro Donnici: Sì, sì, è.
+Guzzo Emiliano: Questa parte qui non l'avevamo vista, l'avevo chiesta, ma so che erano in una fase di sviluppo.
+Alessandro Donnici: No, no, ci sono le rispettive, chiamiamole anagrafiche, no e quindi di budget, di programmi nell'associazione che fai li puoi relazionare o meno, quindi non è vincolante nel censimento all'interno dell'applicazione, no di un progetto e nel momento in cui lo fai per l'applicazione ti consente anche di avere una vista dei progetti raggruppata. Quanti progetti ci sono dentro?
+Alessandro Donnici: È una sorta di gang di macro, no? 
+Guzzo Emiliano: Mhm.
+Alessandro Donnici: Quindi ti fa vedere dove sono posizionati in consultazione. Questo poi se devi...
+Guzzo Emiliano: Ok, e sulla parte di budget invece?
+Alessandro Donnici: Il budget?
+Alessandro Donnici: Anche in quel caso li fai.
+Guzzo Emiliano: Eh, perché?
+Alessandro Donnici: L'associazione al singolo progetto gli dici che deve rientrare.
+Guzzo Emiliano: Eh, perché questa parte qua era una cosa che avevamo chiesto, non c'era ancora quando avevamo fatto la prima presentazione.
+Alessandro Donnici: Ok, adesso è temporaneamente, non so quando l'avevi fatta, ma nelle versioni più recenti...
+Guzzo Emiliano: Ok, eh?
+Guzzo Emiliano: Vorrei vederla, se fosse possibile.
+Alessandro Donnici: Magari quando vengo la facciamo un giro veloce.
+Guzzo Emiliano: Ok. Poi c'è una fetta di budget che viene stanziato per la gestione dei rischi noti del progetto.
+Guzzo Emiliano: Quindi, sulla base dei rischi identificati nel registro, c'è una parte per la mitigazione o eventuali interventi che devono essere fatti per la gestione di questi rischi, che viene riservata come una sorta di sicurezza e paracadute per i rischi non noti, imprevedibili.
+Gregori Luigi: Ok.
+Guzzo Emiliano: Non so se erano cose che si possono gestire all'interno del modulo?
+Alessandro Donnici: Sì, allora se ti ricordi...
+Alessandro Donnici: L'avevo già detto.
+Guzzo Emiliano: Sì, sì, no. Sì, sì, no.
+Guzzo Emiliano: E volevo capire se a livello di budget era possibile specificare delle voci aggiuntive oltre ai costi legati alle attività, ai task che devi definire, oppure no.
+Alessandro Donnici: Ok, quello sì, sì.
+Gregori Luigi: Ok.
+Guzzo Emiliano: Ottimo, quindi ti ho fatto vedere, forse il charter.
+Gregori Luigi: Sì.
+Alessandro Donnici: Eh, forse l'avevamo intravisto sì, sì.
+Guzzo Emiliano: Ok, allora aspetta che magari te lo faccio vedere. Non c'è il documento di chiusura che spiego un attimo quali sono le attività principali in questa fase. Nella fase di chiusura si va a convalidare i requisiti e a presentare i risultati chiave ottenuti, archiviare i documenti.
+Guzzo Emiliano: E fare la valutazione delle persone e sostanzialmente c'è un riepilogo dei risultati e delle metriche di successo del progetto, confronto tra i risultati attesi e quelli ottenuti, feedback dei media, parti interessate.
+Guzzo Emiliano: Adesso non so tipo...
+Guzzo Emiliano: Dal modulo di HDA è possibile generare questionari, cose di gradimento da inviare ai clienti.
+Alessandro Donnici: Sì, sì.
+Guzzo Emiliano: Ok.
+Alessandro Donnici: C'è un modulo di interviste, accordi, prodotto che, come ti dicevo, viene usato anche nella valutazione del demand verso gli stakeholder, è un tipo di utilizzo del motore servizio.
+Guzzo Emiliano: Ok, allora lascio andare. Eh?
+Alessandro Donnici: Sì.
+Guzzo Emiliano: Il tema che avevamo discusso l'altra volta che c'era da capire, no se potevano essere...
+Alessandro: (Interruzione)
+Riunione del 12 febbraio 2021
+
+Partecipanti:
+- Alessandro Donnici
+- Emiliano Guzzo
+- Luigi Gregori
+
+Donnici: No, come ho detto la volta scorsa, probabilmente sarà un oggetto Custom.
+Guzzo: Sì, eh?
+Donnici: Ti ricordi che all'inizio avevo ipotizzato nuvole, ma in realtà è un perimetro leggermente diverso.
+Guzzo: Va bene anche così. Qui però non è equivalente alla cosa del rischio, no?
+Donnici: Di estenderlo.
+Guzzo: E anche il rischio, se non si è detto che c'è l'opportunità di fare distenderlo, ok qui.
+Donnici: Eh sì, perché nella struttura COR di prodotto è molto snella, quindi invece voi avete, mi ricordo, sì, mi avevi fatto delle granularità?
+Guzzo: Sì, c'è qualche campo in più.
+Donnici: No, dico degli altri, eh. Degli attributi del singolo rischio e andrà esteso sicuramente.
+Guzzo: Ok, tu avevi già fatto una valutazione su questi due aspetti?
+Donnici: No, ancora no.
+Guzzo: E.
+Donnici: No, per l'estensione, cioè una valutazione, nel senso che vada fatto questo. Sicuramente poi in questa fase l'export no di estensione non sono in grado di dirtelo.
+Gregori: Mhm.
+Donnici: Devo fare un giro, poi una volta che abbiamo chiuso e tutta la fase di assessment, poi condividerò internamente con i vari colleghi responsabili di prodotto, ricerca e sviluppo EE vediamo cosa vuol dire. Comunque non vedo che siano un grosso problema, nel senso che, come ti dicevo spesso capita che nelle istanze clienti estendiamo l'applicazione con degli oggetti verticali base con testo.
+Gregori: Ok.
+Guzzo: Va bene, tu avevi qualche osservazione sul nostro processo, così come l'abbiamo definito?
+Donnici: No, no, mi è tutto abbastanza chiaro, è quello che ti volevo chiedere per tutto questo. Però poi in questo momento, come li presentate, no?
+Donnici: Cioè sono delle dashboard che estraete.
+Guzzo: No, no, è proprio quel documento che ti ho fatto vedere adesso.
+Donnici: C'è un documento che va compilato a mano, cioè su un template e vai a completare blocco per blocco.
+Guzzo: Sì, sì, ecco.
+Donnici: Mhm.
+Guzzo: Poiché poi alcune informazioni qui sono standard, nel senso che poi le metriche di progetto ci sono.
+Donnici: Sì.
+Guzzo: Abbiamo in HDA quindi quello che vorremmo fare è capire se alcune di queste schede magari riusciamo.
+Donnici: Sì, sì.
+Guzzo: A recepirle direttamente da HDA. Tipo, sei in HDA facciamo una personalizzazione delle lezioni apprese miglioramenti futuri. Eh, questa scheda la rivediamo e magari qui dentro la facciamo saltare fuori in una dashboard. Qualcosa, eh?
+Donnici: E.
+Guzzo: Direttamente da HDAO, dalla datawarehouse che verrà alimentato da Catania.
+Donnici: Eh sì, vabbè, questo va capito, no?
+Donnici: E che ti consentono di ottenere un file... Dimmi scusa.
+Guzzo: Se, calcola che, come dicevo l'altra volta, noi abbiamo... Eh. Stiamo predisponendo perché è 1.
+Donnici: Oh.
+Guzzo: Una fase piuttosto artigianale, embrionale, un datawarehouse dove abbiamo tutto il nostro registro dei progetti e dal quale poi, ehm, stiamo predisponendo delle dashboard di controllo e monitoraggio.
+Donnici: Sì.
+Guzzo: E.
+Guzzo: Un domani verrà alimentato direttamente da HDA.
+Donnici: Sì, perché no?
+Guzzo: Ok, quindi?
+Donnici: Bisogna entrare nel perimetro di quali dati estrarre nel V?
+Gregori: Sì, esatto.
+Guzzo: Esatto.
+Donnici: Perché ovviamente poi hai una mappatura, diciamo così, della struttura del data model di accadia verso.
+Guzzo: Sì, sì.
+Verbale di Riunione - Resoconto Strutturato
+
+Partecipanti: Alessandro Donnici, Guzzo Emiliano, Federico Canigiani, Gregori Luigi
+Data: [data della riunione]
+
+Argomenti discussi:
+
+1. Introduzione:
+   - Alessandro Donnici ha iniziato la riunione mostrando un file Excel contenente informazioni sulla granularità dei dati relativi a risk e learn.
+   - Guzzo Emiliano ha confermato che il file Excel è utilizzato per alimentare il datawarehouse.
+
+2. Alimentazione del Datawarehouse:
+   - Alessandro Donnici ha chiesto se il datawarehouse riceverà le informazioni direttamente da HD.
+   - Guzzo Emiliano ha confermato che le informazioni arriveranno da HD e ha menzionato la presenza di Federico Canigiani come responsabile.
+   - Alessandro Donnici ha espresso interesse nell'avere un output, come un dashboard, per visualizzare le informazioni in modo più pratico.
+   - Guzzo Emiliano ha assicurato che sarà possibile e ha proposto di estrapolare le informazioni necessarie direttamente dal datawarehouse, nel caso in cui non sia già disponibile una dashboard su HDA.
+
+3. Standard e Alert:
+   - Alessandro Donnici ha chiesto se HDA ha uno standard VH incluso nel prodotto.
+   - Guzzo Emiliano ha confermato di aver implementato uno standard VH che ha funzionato bene, incluso un sistema di allerta rossa.
+
+4. Necessità di Preparazione dei Dati:
+   - Alessandro Donnici ha menzionato un possibile set di dati già pronto per l'analisi dei progetti, ma ha sottolineato la necessità di integrarlo dal nostro sistema.
+   - Guzzo Emiliano ha confermato che, se necessario, potremmo integrare il set di dati nel futuro, ma il gap attuale riguarda principalmente la parte di disk e lesson learn.
+
+5. Gap nella Funzionalità:
+   - Alessandro Donnici ha affermato che la parte funzionale non è un problema, ma la parte di lesson learn dovrebbe essere sviluppata da zero, utilizzando un oggetto Custom.
+   - Guzzo Emiliano ha confermato che sarà necessario sviluppare la funzionalità di lesson learn e che sarà disponibile in entrambi i VH.
+
+6. Estensione dell'Applicazione:
+   - Alessandro Donnici ha precisato che estendiamo l'applicazione da zero, in diverse fasi.
+   - Guzzo Emiliano ha concordato che l'estensione dell'applicazione non sarà automatica e che la parte di VH verrà estesa solo in base alle necessità.
+
+Conclusione:
+- Durante la riunione, si è stabilito che il datawarehouse riceverà le informazioni da HD e che verranno sviluppate funzionalità aggiuntive, come lesson learn.
+- Sarà necessario integrare il set di dati e sviluppare dashboard per la visualizzazione delle informazioni.
+- Guzzo Emiliano e Alessandro Donnici concordano sulla necessità di estendere l'applicazione in base alle esigenze specifiche.
+Verbale di riunione - Resoconto strutturato
+
+Partecipanti: Alessandro Donnici, Emiliano Guzzo, Luigi Gregori
+
+Alessandro Donnici: Non è un problema, è solo per trasparenza di sapere cosa serve e cosa non serve.
+
+Emiliano Guzzo: Magari sarebbe utile se condividessi i dati disponibili.
+
+Alessandro Donnici: Posso condividere i dati internamente al team.
+
+Emiliano Guzzo: Così possiamo verificare velocemente se ci sono delle lacune da colmare.
+
+Alessandro Donnici: In questa fase non ha senso che lo facciate voi, ma verificherò io con il team.
+
+Emiliano Guzzo: Quindi i dati che ci servono sono quelli generali del progetto e gli indicatori di performance?
+
+Alessandro Donnici: Sì, ho capito. Includerò questi dati nel documento che produrremo.
+
+Emiliano Guzzo: Va bene, avevamo bisogno di questa informazione.
+
+Alessandro Donnici: Lo dico solo perché a volte si creano delle aspettative.
+
+Emiliano Guzzo: Giusto, sarebbe meglio risolvere questa questione.
+
+Alessandro Donnici: Non è sempre possibile, ma in questo caso dobbiamo prevedere alcune attività.
+
+Luigi Gregori: Capisco.
+
+Alessandro Donnici: Quindi, per ora, dovremo concentrarci sullo stato di avanzamento, i tempi, il budget e i rischi del progetto.
+
+Emiliano Guzzo: Sì, esattamente.
+
+Alessandro Donnici: Va bene, tieni presente che ci sarà una dashboard con gli indicatori di ogni progetto.
+
+Emiliano Guzzo: Perfetto, è quello di cui abbiamo bisogno.
+
+Alessandro Donnici: Questo sarà disponibile per ogni progetto e potrai vedere il budget previsto e se vi sono ritardi.
+
+Emiliano Guzzo: Ottimo, ne riparleremo più avanti.
+
+Alessandro Donnici: Le dashboard sono disponibili solo per consultazione, non possono essere esportate in PDF al momento.
+
+Luigi Gregori: Capito.
+
+Alessandro Donnici: Quindi dovremo vedere se queste dashboard sono sufficienti o se vuoi inserirle nel PH in modo da poter gestire la tua presentazione.
+
+Emiliano Guzzo: Va bene, ci penseremo.
+
+Alessandro Donnici: Ok, tutto chiaro.
+
+Emiliano Guzzo: Grazie.
+Nella riunione, il signor Guzzo Emiliano menziona che le formazioni e le dashboard verranno realizzate internamente. Il signor Gregori Luigi concorda. Guzzo Emiliano spiega che il team utilizzerà le funzionalità fornite dal Tool per la comunicazione interna con il management. Alessandro Donnici conferma che il monitoraggio avverrà in tempo reale mediante l'applicazione. Guzzo Emiliano conferma. Gregori Luigi pronuncia "ok" e Alessandro Donnici chiede se le presentazioni al management saranno fatte al di fuori del sistema. Guzzo Emiliano risponde con un "eh?" e Alessandro Donnici chiede se c'è altro di cui parlare. Guzzo Emiliano afferma che potrebbe essere possibile mentire su qualsiasi cosa sensibile o fornire una panoramica generale, ma che verranno approfondite le parti relative alla gestione del budget, del portafoglio e dei progetti. Gregori Luigi propone di definire chiaramente il perimetro di questa fase. Alessandro Donnici chiede se sia possibile organizzare un incontro per vedere l'applicativo e capire meglio come funziona. Propone anche una demo tecnica per completare questa fase di analisi e permettere la formulazione del progetto di lancio. Gregori Luigi concorda e sottolinea che rimane solo una mattinata da dedicare a questo. Alessandro Donnici suggerisce di chiudere la riunione se non ci sono altre questioni da affrontare. Guzzo Emiliano afferma che vorrebbe essere presente per la parte dei progetti e del demand. Gregori Luigi precisa che non è necessario che Guzzo Emiliano partecipi a quella parte.
+Verbale di Riunione 27/04/2021
+
+Partecipanti: Luigi Gregori, Alessandro Donnici, Emiliano Guzzo
+
+Luigi Gregori: Vorrei capire se abbiamo un problema con le banche immagini.
+Alessandro Donnici: Si potrebbe fare un aggiornamento interno, ma ti terrò comunque informato.
+Luigi Gregori: Va bene, nessun problema.
+Alessandro Donnici: Parlando della demo, abbiamo bisogno di chiarire due punti.
+Alessandro Donnici: La parte di Asset Management andrebbe approfondita.
+Alessandro Donnici: Possiamo organizzare una demo standard? Per avere tutti i dettagli sull'infrastruttura, l'applicazione e la parte di project management.
+Emiliano Guzzo: Sarebbe interessante approfondire anche l'Asset Management.
+Alessandro Donnici: Quindi concentriamoci sulla parte pura di HDAE, l'infrastruttura del prodotto e il project management. Possiamo organizzare una demo di un'ora.
+Luigi Gregori: La demo non mi serve, conosco già il prodotto.
+Luigi Gregori: Possiamo organizzare la demo per il 10?
+Alessandro Donnici: Il 10 va bene, dedichiamo un'ora del mattino alla demo e poi programmiamo il resto delle attività.
+Alessandro Donnici: Possiamo procedere in questo modo?
+Luigi Gregori: Va bene, perfetto.
+Emiliano Guzzo: Perfetto.
+Alessandro Donnici: Scusate, ma perché mi avete fissato un altro appuntamento?
+Luigi Gregori: C'è una riunione alle 10 che mi stanno stressando. Avevo chiesto se potevo anticipare.
+Emiliano Guzzo: Non preoccuparti, si può chiudere qui, l'importante è che mi forniate i link.
+Luigi Gregori: Potresti vedere i link da solo, grazie.
+Alessandro Donnici: Quindi l'incontro di oggi si riferisce ai due precedenti?
+Luigi Gregori: Esatto, potremmo lasciar perdere questa riunione. Appena pronti, ti invierò la trascrizione e la registrazione.
+Alessandro Donnici: Va bene, grazie.
+Luigi Gregori: Grazie, ciao.
+Alessandro Donnici: Ciao, buona giornata.
+Emiliano Guzzo: Ciao, grazie.

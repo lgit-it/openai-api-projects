@@ -1,0 +1,649 @@
+Alessandro Donnici:
+E sulla parte di project.
+Beh, mi dicevi che non ti mancava tanto nell'ovvio e quindi forse la parte di chiusura mi pare che mancasse se non ricordo male.
+Guzzo Emiliano:
+Sì.
+Alessandro Donnici:
+E adesso scusami, sto andando a memoria, Eh?
+Sì.
+Guzzo Emiliano:
+Riprendo un attimo la la policy Eh un secondo.
+Condividi.
+Guzzo Emiliano:
+Ok.
+Alessandro Donnici:
+Il closing un cava sicuramente e dei punti prima Eh, sono ricordo.
+Guzzo Emiliano:
+Somma Marina?
+Guzzo Emiliano:
+Ok, va bene insomma, riepilogando un po trovata no, quindi, Eh.
+Guzzo Emiliano:
+Cioè la prima fase, poi si parta e si parte innanzitutto da un demand approvato.
+Alessandro Donnici:
+Sì.
+Guzzo Emiliano:
+Questo genera 1, 1, 1 progetto in in HDAE gli viene staccato 1 1.
+Staccato 1 1.
+Alessandro Donnici:
+Sì.
+Guzzo Emiliano:
+Codice di progetto questo queste informazioni.
+Nel sistema di gestione per registrare le ore spese sul progetto, cosa che vedremo, insomma, se mantenere o.
+Guzzo Emiliano:
+Andare ad utilizzare invece le funzionalità di HDA dopo sono approfondimento su questo.
+Alessandro Donnici:
+Sì.
+Guzzo Emiliano:
+Viene staccato anche un'informazione che è il codice degli Analytica, il codice mandato che invece sono codici di riferimento che abbiamo la necessità di associare come informativa alla al progetto che saranno e saranno qui i codici che poi vengono forniti anche al al agli eventuali fornitori esterni per per per la fatturazione.
+Alessandro Donnici:
+Ehm, OK.
+Guzzo Emiliano:
+Le stesse le stesse informazioni poi ci rivelano anche nell'amministrazione, ovviamente per la gestione del fattore bene Eh?
+Ehm.
+Guzzo Emiliano:
+Gli obiettivi del progetto la descrizione del progetto e deliveroo principale eccetera, Eh, quelle informazioni la noi.
+Alessandro Donnici:
+OK.
+Guzzo Emiliano:
+Vorremmo utilizzarne poi per gestirci e crearci il nostro project chatter, quindi poi informazioni che dovranno in qualche modo essere facilmente fruibili per i project manager e non abbiamo parlato l'altra volta della Holder Analysis, volevo sapere se in HDA c'era qualche funzionalità, qualche modulo per la gestione degli stakeholder.
+Alessandro Donnici:
+La scena, il processo di demand si son delle Survey che invidia gli stakeholder in compilazione, che vengono compilate e quindi poi le usi come base di dati da analisi.
+Mhm.
+Guzzo Emiliano:
+E nel quando intendo l'analisi sugli stakeholder intendo probabilmente analisi di Eh.
+Se il tool di Ah offre della.
+Guzzo Emiliano:
+Dei modulo a supporto di di questa analisi per fare dei grafici.
+Gregori Luigi:
+No?
+Alessandro Donnici:
+Ah no, in cui no, in questo in questo termine, in questi termini, qua no.
+Guzzo Emiliano:
+Ok, va bene Eh.
+Guzzo Emiliano:
+Beh, abbiamo visto la l'abbiamo parlato l'altra volta del delle BS, del concetto di di task, no?
+Alessandro Donnici:
+Sì.
+Guzzo Emiliano:
+Ci ci spiegavi.
+Alessandro Donnici:
+Sì.
+Guzzo Emiliano:
+E baseline di progetto, quindi vabbè, cioè la la parte di pianificazione di di BS che ci va a creare un po la lo scopo bassline per OK.
+Per quanto invece riguarda tempi e costi, eh.
+Alessandro Donnici:
+Sì.
+Guzzo Emiliano:
+E io non non avevo visto durante le le demo le funzionalità di di monitoraggio che ci sono, eh, se non sbaglio la c'eravate, parlato comunque eh, di di metriche classiche, di di misurazione, dell'Ec, dell'Agnel, Valium e volevo solo una conferma di questo.
+Alessandro Donnici:
+Sì, sì, è così.
+Alessandro Donnici:
+Dovevi fare il censimento e vuoi senza limiti, ovviamente con un titolo da tipologia e diciamo lef, chiamiamolo il lefort, no?
+Alessandro Donnici:
+Dopodiché le applicazioni in automatico ti renderizza delle piccole dashboard nelle schede di dettaglio del demand ti fa vedere come stanno andando le cose e poi si è ribaltata anche nel progetto, ovviamente.
+Guzzo Emiliano:
+Ok, si possono definire anche buffer di.
+Per il budget del progetto.
+Alessandro Donnici:
+Sì, sì.
+Guzzo Emiliano:
+E.
+Gregori Luigi:
+Prendi cosa intendi per buffer, scusate Eh?
+Alessandro Donnici:
+Cioè ci sono le Portfolio, c'è il Portfolio Eh.
+Alessandro Donnici:
+Sì, sì, è.
+Guzzo Emiliano:
+Eh questa questa parte qua non l'avevamo vista, le l'avevamo l'avevo.
+L'avevo chiesta, però so che cioè erano in una fase di di rilasso di sviluppo.
+Alessandro Donnici:
+No, no, ci sono le rispettive, chiamiamole anagrafiche, no e quindi di budget, di come dicevo budget portfolio, programmi nell'associazione che fai li puoi relazionare o meno, cioè quindi non è vincolante nel censimento all'interno dell'applicazione no di un progetto e nel momento in cui lo fai per l'applicazione ti consente anche di di avere una vista dei progetti raggruppata.
+Quanti progetti ci sono dentro?
+Alessandro Donnici:
+È una sorta di gang di macro, gant, no?
+Guzzo Emiliano:
+Mhm.
+Alessandro Donnici:
+Quindi ti fa vedere dove sono posizionati in consultazione.
+Questo poi se devi ah.
+Guzzo Emiliano:
+Ok le sulla sulla parte sulla parte di budget invece?
+Alessandro Donnici:
+Il budget?
+Alessandro Donnici:
+Anche in quel caso lì li fai.
+Guzzo Emiliano:
+Eh, perché?
+Alessandro Donnici:
+L'associazione al singolo progetto gli dici che batte va rientrare.
+Guzzo Emiliano:
+Eh, perché quella questa parte qua che è una cosa che noi avevamo chiesto, non c'era ancora quando avevamo fatto la prima presentazione.
+Alessandro Donnici:
+Ok, adesso è temporaneamente, non so quando l'avevi fatta, però in nella nel diciamo nella versione più recenti, cioè?
+Guzzo Emiliano:
+Ok, Eh?
+Guzzo Emiliano:
+Vorrei vederla, se se fosse possibile.
+Alessandro Donnici:
+Se magari quando vengo la la la facciamo un giro veloce.
+Guzzo Emiliano:
+Ok.
+Poi c'è 1, 1, 1, 1 bad 1, 1 fetta di di budget che viene stanziato per la gestione dei rischi noti del progetto.
+Guzzo Emiliano:
+OK, Eh?
+Guzzo Emiliano:
+Quindi, sulla base del dei rischi identificati nel registro, eccetera, c'è una parte per ovviamente la la mitigazione o eventuali interventi che devono essere fatti per per la gestione di questi rischi che viene riservata è 1, 1 buffer invece di diciamo sicurezza e paracadute per i rischi invece non non noto, imprevedibili.
+Gregori Luigi:
+Ok.
+Guzzo Emiliano:
+Non sapere se erano cose che si possono gestire all'interno del.
+Della del modulo?
+Alessandro Donnici:
+Sì, allora se ti ricordi giusto?
+Questo ti ricordi?
+Alessandro Donnici:
+L'avevo già detto.
+Guzzo Emiliano:
+Sì, sì sì, sì, no. Sì, sì, no.
+Guzzo Emiliano:
+E però volevo capire se a livello di budget era possibile specificare le voci aggiuntive oltre ai costi ovviamente legati alle attività, ai tasche che tu hai a definire, oppure oppure no.
+Alessandro Donnici:
+Ok, sì, vabbè, quello sì, sì sì.
+Gregori Luigi:
+OK.
+Guzzo Emiliano:
+Ottimo OK, Eh?
+Guzzo Emiliano:
+Ti ho fatto vedere, forse il charter.
+Gregori Luigi:
+Sì.
+Alessandro Donnici:
+Eh, forse le amo intravisto sì, sì, sì.
+Guzzo Emiliano:
+Ok, allora aspetta che magari ti faccio vedere.
+Non c'è il documento di di closing che spiego un attimo, quali sono le attività principale questa fase nella fase di chiusura si va a convalidare i requisiti EA riversare le risorse a presentare i risultati chiavi ottenuti, archiviare i documenti.
+Guzzo Emiliano:
+E fare la valutazione delle persone e sostanzialmente c'è un riepilogo del dei risultati delle metriche di successo del progetto, confronto tra i risultati attesi tra detenuti, feedback dei media, parti interessati.
+Guzzo Emiliano:
+Adesso non so tipo Eh.
+Guzzo Emiliano:
+Dal modulo di HDA è possibile generale di questionari, di cose di gradimento per inviare i clienti.
+Alessandro Donnici:
+Sì, sì, sì, sì, sì.
+Guzzo Emiliano:
+Ok.
+Alessandro Donnici:
+C'è un modulo di interviste, accordi, prodotto che come ti dicevo viene usato anche nella parte di valutazione del demand per verso gli stakeholder è 1 1 tipo di utilizzo del motore servi.
+Guzzo Emiliano:
+Ok, Ah le lascio and learn.
+Eh?
+Alessandro Donnici:
+Sì.
+Guzzo Emiliano:
+Il tema che avevamo discusso l'altra volta che c'era da capire, no se potevano essere.
+Alessandro Donnici:
+No, per come avevo detto l'altra volta, probabilmente sarà un oggetto Custom.
+Guzzo Emiliano:
+Sì, Eh?
+Alessandro Donnici:
+Ti ricordi che inizialmente avevo forse io avevo ipotizzato da nuvole, ma nella realtà un perimetro leggermente diverso.
+Guzzo Emiliano:
+Va bene anche in questo.
+Qui però, equivalente alla cosa di del rischio, no.
+Alessandro Donnici:
+Di estenderlo.
+Guzzo Emiliano:
+E anche il rischio, se se l'ha detto no, che c'è l'opportunità di fare distenderlo OK qui.
+Alessandro Donnici:
+Eh sì, perché nella nella struttura COR di prodotto è molto snella, quindi invece voi avete, mi ricordo, si, mi avevi fatto delle granularità?
+Guzzo Emiliano:
+Sì, c'è qualche campo in più.
+Alessandro Donnici:
+No del diciamo degli degli altri, Eh.
+Degli attributi del del singolo rischio e li andrà esteso sicuramente.
+Guzzo Emiliano:
+Ok, tu avevi già fatto una valutazione su questi due aspetti?
+Alessandro Donnici:
+No, ancora no.
+Guzzo Emiliano:
+E.
+Alessandro Donnici:
+No, per l'estensione, cioè una valutazione, nel senso che vada fatto questo.
+Sicuramente poi in questa fase l'export no di estensione non non sono in grado di dirtelo.
+Gregori Luigi:
+Mhm.
+Alessandro Donnici:
+Devo fare un giro, poi con una volta che abbiamo chiuso e tutta la fase di assessment, poi condividerò all'interno con i vari colleghi responsabili di prodotto, ricerca e sviluppo EE vediamo cosa vuol dire.
+Comunque non non vedo che siano, non credo che sia un grosso problema, nel senso che, come ti dicevo spesso e volentieri capita che nelle istanze clienti estendiamo l'applicazione con degli oggetti verticali base con testo.
+Gregori Luigi:
+Ok.
+Guzzo Emiliano:
+Va bene, tu avevi qualche osservazione sul nostro processo, così come, come lo abbiamo definito?
+Alessandro Donnici:
+No, no, mi è, mi è tutto abbastanza chiaro, è quello che ti volevo chiedere per la la tutta la.
+Però poi in questo momento, com'è che li presentate, no?
+Alessandro Donnici:
+Cioè son delle dashboard che estraete.
+Guzzo Emiliano:
+No, no, è proprio quel quel documento che te che ti ho fatto vedere adesso.
+Alessandro Donnici:
+C'è un documento che va a censire a mano, cioè vabbè su un template e vai AA completare blocco per blocco.
+Guzzo Emiliano:
+Sì, sì sì, ecco, Eh.
+Alessandro Donnici:
+Mhm.
+Guzzo Emiliano:
+Poiché poi alcune informazioni qui sono sono standard, nel senso che poi le metriche di progetto c'è.
+Alessandro Donnici:
+Sì.
+Guzzo Emiliano:
+Abbiamo in HDA quindi quello che eventualmente e vorremmo fare è capire se alcune di queste schede magari riusciamo.
+Alessandro Donnici:
+Sì.
+Sì.
+Guzzo Emiliano:
+AA recepirle direttamente da HDA tipo Sei in HDA facciamo una personalizzazione delle lezioni apprese migliora e miglioramenti futuri Eh questa scheda la rivediamo e magari qui dentro gli facciamo saltare fuori in una dashboard.
+Qualcosa, Eh?
+Alessandro Donnici:
+E.
+Guzzo Emiliano:
+Direttamente da HDAO, dalla o dalla datawarehouse che verrà alimentato da da Catania.
+Alessandro Donnici:
+Eh sì, vabbè, questo va capito, no?
+Alessandro Donnici:
+E che ti consentono di avere di ottenere un file Dimmi scusa.
+Guzzo Emiliano:
+Se Eh allora calcola che, come come dicevo l'altra volta, Eh allora noi abbiamo, Eh.
+Stiamo predisponendo perché è 1.
+Alessandro Donnici:
+Oh.
+Guzzo Emiliano:
+Una fase piuttosto artigianale, embrionale, un datawarehouse dove abbiamo tutto il nostro registro de dei progetti e dal quale poi, ehm, stiamo predisponendo delle dashboard di controllo e monitoraggio.
+Alessandro Donnici:
+Sì.
+Guzzo Emiliano:
+E.
+Guzzo Emiliano:
+Un domani verrà alimentato direttamente da HDA.
+Alessandro Donnici:
+Sì, perché no?
+Guzzo Emiliano:
+OK, OK quindi?
+Alessandro Donnici:
+Tali bisogna entrare nel solo nel perimetro di di che dati no di cosa estrarre nel V?
+Gregori Luigi:
+Sì, esatto.
+Guzzo Emiliano:
+Esatto.
+Alessandro Donnici:
+Perché ovviamente poi hai una.
+Alessandro Donnici:
+Mappatura, diciamo così, della struttura del data model di accadia verso.
+Guzzo Emiliano:
+Sì, sì, è quello che è e quello che ti avevo mostrato.
+L'altra volta, infatti, il?
+Alessandro Donnici:
+Ok.
+Guzzo Emiliano:
+La granularità che tu avevi visto sul risk e sulla learn è quella di cui l'excel lì è quello Excel è proprio quello che utilizziamo per alimentare il datawarehouse.
+Alessandro Donnici:
+Ok.
+Guzzo Emiliano:
+Quindi quelle sono le informazioni che, Eh, dovranno arrivare un giorno da da HD.
+Eh, sono qui con Federico Canigiani.
+Alessandro Donnici:
+Sì, certo, ma se tu poi vuoi avere un, diciamo come un output, adesso non lo so.
+1, 1 dashboard che ti fa vedere non so quante ore.
+Guzzo Emiliano:
+Me lo tira, me la tiro fuori dalla allora se per esempio non so, le lezioni apprese queste qui, come le tirerò fuori da dal nostro data warehouse, probabilmente cioè la facciamo direttamente noi, se non c'è già la dashboard disponibile su su su HDA Eh.
+Guzzo Emiliano:
+Penso proprio che permetterebbe la situazione anche qui.
+Alessandro Donnici:
+No, no, chiaro, cioè quello che ti volevo dire, giusto per trasparenza e che si ricordi e dicevo, cioè HDA ha un VH no standard?
+Già, diciamo incluso nel corso del prodotto.
+Guzzo Emiliano:
+Era bella, bella, piena, tra virgolette, com'era veramente tanto che andava bene.
+Quindi hanno messo anche. Allerta rossa?
+Alessandro Donnici:
+Questo tipo h ti espone un set di dati già pronti, OK, sta un po spesso e volentieri.
+Guzzo Emiliano:
+Si, no, va bene se son già pronti, ci sono già pronti, magari valutiamo.
+Guzzo Emiliano:
+Perché non fermi?
+Alessandro Donnici:
+Dal vostro, ma cioè il vostro, comunque lo devi popolare dal dal nostro, scusami in giro di parole, no?
+Guzzo Emiliano:
+Certo, Eh sì, corretto.
+Si e sembrava quasi anche sentirmi quasi nel temporale, cioè torni da un certo punto.
+Guzzo Emiliano:
+Novembre troppo dai?
+Guzzo Emiliano:
+Vediamo che vieni, facciamo.
+Alessandro Donnici:
+Eh quindi Eh, diciamo il nostro, sarebbe un layer di mezzo, una fonte di dati di origine, poi per il vostro, quello che intendo dire è che il quel data, il Datawarehouse HDA, c'ha un set di tabelle, diciamo già pronte per alcuni set di dati, per altri no, perché non sono perimetro, cioè non sono a standard di prodotto, no?
+Gregori Luigi:
+Mhm.
+Guzzo Emiliano:
+Sì, anch'io anch'io dopo dopo di te credo.
+Alessandro Donnici:
+Quindi non escludo che poi per sei didattiche te serve e per fare tutta la parte di diciamo di analisi dei progetti che vada integrato.
+Alessandro Donnici:
+Cioè sì.
+Guzzo Emiliano:
+Vedi di Lesson Learn.
+Alessandro Donnici:
+Sì.
+Guzzo Emiliano:
+Le altre per quello che avevo visto anche l'altra volta, cioè non non dovrebbe esserci questa necessità.
+Sicuramente una prima fase, poi in futuro insomma, valutiamo se ci serve qualcosa di particolare, però Eh, il gap, a meno che avevamo individuato anche l'altra volta era più alto sulla parte di disk e lesson learn e basta.
+Alessandro Donnici:
+Sì, per la parte.
+Funzionale.
+Guzzo Emiliano:
+Certo, certo, certo, certo, certo certo.
+Guzzo Emiliano:
+Certo, certo.
+Alessandro Donnici:
+OK, io ti stavo, ti avevo perimetrato sulla parte puramente funzionale, che non è che è mancante per parte di rischia in quota parte per la parte di lesson learn invece andrebbe fatta, diciamo da zero, come ti dicevo con oggetto Custom.
+Guzzo Emiliano:
+Sì, sì, Verissimo.
+Alessandro Donnici:
+Dopodiché il pezzetto in più e avere a disposizione quel set di dati anche nel due h.
+Gregori Luigi:
+Certo.
+Guzzo Emiliano:
+Sì, sì sì sì, sì, no.
+Bisognerà fare degli dei dei, degli estrattori in.
+Alessandro Donnici:
+Ovviamente, quindi non è che ti non è out of the box, non quello che intendo dire no, cioè noi estendiamo la estendiamo l'applicazione si ne so, cioè estendiamo l'applicazione dal punto di vista.
+Eh sì, sono sono le diciamo layer diverse.
+Guzzo Emiliano:
+Eh no, no credo no, non credo, non credo.
+Gregori Luigi:
+Certo.
+Alessandro Donnici:
+Non è automatico, no, perché il VH viene esteso al al diciamo al bisogno, sto un po il senso.
+Guzzo Emiliano:
+Sono no, sono più che altro, tra l'altro esatto no.
+Alessandro Donnici:
+Comunque non è un problema, è solo per trasparenza di sapere cosa.
+A cosa serve e cosa non serve?
+Alessandro Donnici:
+Ecco qua.
+Guzzo Emiliano:
+Sono magari sono un po sul momento così troppo quando grande Eh.
+Magari sarebbe utile se non so se tu hai.
+Alessandro Donnici:
+Mhm.
+Guzzo Emiliano:
+Puoi condividere quali sono i dati che sono disponibili.
+Alessandro Donnici:
+All'interno.
+Guzzo Emiliano:
+E così che che però, eh, così magari possiamo verificare molto rapidamente.
+Insomma, se se c'è qualche gap da da colmare, al netto del rischio, OK.
+Alessandro Donnici:
+Allora, in questa fase qua non non ha, cioè non ha senso che lo facciate voi, no?
+Guzzo Emiliano:
+Va bene?
+Alessandro Donnici:
+Cioè è 1 1 Delta che verifico io poi col team perché abbiamo un team che segue tutta quella parte lì.
+E poi comunque lo lo esplicito nel nel documento no che andiamo a produrre.
+Guzzo Emiliano:
+Solutamente comunque per le esigenze che abbiamo adesso, cioè ti dico, cioè se quando ci sono i dati diciamo generali del del progetto quando sono gli indicatori di performance, cioè cioè nel nei serve altro, Eh?
+Alessandro Donnici:
+Sì, sì, mi è chiaro, mi è chiaro.
+Guzzo Emiliano:
+Certo, certo.
+Alessandro Donnici:
+Mi è chiaro.
+Guzzo Emiliano:
+Avevamo avevamo, no, no, ci stanno.
+Alessandro Donnici:
+No, lo sai perché lo dico solo perché a volte si si creano delle aspettative, no?
+Guzzo Emiliano:
+Filippo appunto, che ore sono?
+Alessandro Donnici:
+Il classico sei, accendi il bottone, no, accendi il bottone è tutto, è tutto pronto.
+Guzzo Emiliano:
+Voglio pensare che che perché sia ancora, come dire, risolvibile.
+Alessandro Donnici:
+Non è sempre così, OK, qui per alcune cose si, per altre ci sono delle attività da dover prevedere.
+Tutto lì per in tutta trasparenza, no?
+Guzzo Emiliano:
+Qualche modo?
+Gregori Luigi:
+Certo.
+Alessandro Donnici:
+Cioè, non è che sto a raccontarti?
+Alessandro Donnici:
+Sì.
+Guzzo Emiliano:
+E si si noi, Eh, adesso in in questa fase soprattutto iniziale di non abbiamo ambizioni particolari, cioè quello che hai visto, ti abbiamo mostrato anche nella Elf card, che adesso tiro fuori.
+Sono queste le informazioni che servono nel progetto.
+Alessandro Donnici:
+Sì, sì, mi è chiaro, mi è chiaro.
+Guzzo Emiliano:
+Stato di avanzamento, sapere se siamo in anticipo il ritardo nei tempi, siamo nel budget sotto budget, fuori budget e se ci sono.
+Rischi o punti aperti?
+Alessandro Donnici:
+Sì, sì.
+Guzzo Emiliano:
+Certo peso, Eh vabbè.
+Guzzo Emiliano:
+Non.
+Alessandro Donnici:
+Certo, allora tieni conto che allora dashboard e con degli indicatori e progetto per progetto, no?
+Guzzo Emiliano:
+No, ma no, no, perlomeno insomma, dovranno in direi che questo che questo visto l'altro.
+Alessandro Donnici:
+Eh, piuttosto che per per portfolio piuttosto che per programma accade li renderizza già no, cioè quindi ti fa vedere la il budget che avevi previsto per su quel singolo progetto.
+Se ci sono, quanti giorni di ritardo?
+Guzzo Emiliano:
+Eh?
+Così, no, però magari poi si ne riparleremo.
+Alessandro Donnici:
+Lefort ancora a disposizione anche su quel progetto, quindi delle dashboard in pura consultazione dentro l'interfaccia di h c'è l'hai già OKE?
+Guzzo Emiliano:
+Juventini anche persona, una settimana riapre in qualche modo ci becchiamo.
+Alessandro Donnici:
+Eh?
+Dopodiché, va capito se quelle dashbord ci sono sufficienti, perché non sono in questo momento esportabili, no?
+Gregori Luigi:
+Eh?
+Alessandro Donnici:
+Cioè quindi non non c'è un bottone che ti tira fuori quelle dashboard su un PDF.
+Guzzo Emiliano:
+Ma vai tranquilla.
+Alessandro Donnici:
+Adesso dico io PDFE.
+Guzzo Emiliano:
+Sì, non sapevo questa cosa, cioè avevo capito che avevi diciamo sì, sì, è così.
+Alessandro Donnici:
+Non quindi a capire se è sufficiente, piuttosto che se vuoi avere dentro il PH, in modo tale che poi la la tua presentazione te la fai tu, te la gestisci come vuoi tu dal duca, OK?
+Mhm.
+Guzzo Emiliano:
+Poi è così, infatti poi noi il nostro formazioni nostre dashboard le faremo, le faremo.
+Gregori Luigi:
+OK.
+Guzzo Emiliano:
+Andrà poi questo per la comunicazione che noi PM abbiamo con il management, con risolve poi internamente utilizzeremo sicuramente le le desport messe a disposizione dalla dal Tool per fare il il lavoro, insomma, ma figurati, Eh, sì, scherziamo?
+Alessandro Donnici:
+Sì, sì, perché quella più e un monitoraggio che fai dentro l'applicazione in tempo reale, no?
+Guzzo Emiliano:
+Ma figurati.
+Ci mancherebbe altro.
+Gregori Luigi:
+Ok, bene.
+Alessandro Donnici:
+Dopodiché, per le presentazioni che dici tu al management e quelli andranno fatte extra sistema, probabilmente, e dal duo H direi vabbè, mi è chiaro.
+Guzzo Emiliano:
+Eh?
+Alessandro Donnici:
+E avevi altro Emiliano di.
+Guzzo Emiliano:
+Cioè qualsiasi cosa si può mentire.
+Alessandro Donnici:
+Diciamo di sensibile, ecco o come macro overview, mi hai fatto vedere più o meno tutto.
+Alessandro Donnici:
+Va bene?
+Guzzo Emiliano:
+Ma io certo, ti direi di sì, cioè poi andiamo magari nel dettaglio quando, quando è il momento, però, si è il processo, lo abbiamo arrivi, lo abbiamo rivisto, abbiamo visto come questo si aggancia il processo di digestione del demand.
+Alessandro Donnici:
+Mhm.
+Guzzo Emiliano:
+E voglio approfondire la parte di gestione del budget, gestione del portafoglio.
+Alessandro Donnici:
+Ok.
+Guzzo Emiliano:
+E li avrei piacere di vedere proprio la cosa, perché noi la la parte.
+Progetti non l'abbiamo proprio vista e nel.
+Alessandro Donnici:
+Certo.
+Guzzo Emiliano:
+Vai, dici?
+Gregori Luigi:
+Allora sì, posso allora io io proporrei una cosa del genere, anche perché stavo riguardando, Eh, se tu vai a vedere la la, la charter di.
+In realtà la gestione del.
+Gregori Luigi:
+Eh?
+Guzzo Emiliano:
+Ma anche perché poi le convenzioni erano arrivati settimana scorsa, quando a dire avevamo fatto enne riunioni prima e non era.
+Gregori Luigi:
+Del project era messa non aut of business, cioè motoscope chi è che ha che ha che sta parlando emiliano?
+Guzzo Emiliano:
+Ciao.
+Gregori Luigi:
+Sei tu che hai, c'è qualcuno che ha qualcun altro in ufficio.
+Gregori Luigi:
+Però dobbiamo definire abbastanza chiaramente quali sono i.
+Gregori Luigi:
+Qual è il perimetro di questa fase?
+Alessandro Donnici:
+Sì.
+Gregori Luigi:
+Ecco EE di dove formulare l'offerta e io direi che siccome anch'io non ho visto accadia, cioè considera che non ho mai visto proprio, quindi sto facendo un atto di fede e se fosse possibile?
+Alessandro Donnici:
+No?
+Sì.
+Gregori Luigi:
+Adesso noi abbiamo ancora delle degli incontri pianificati, ma schedulare un incontro alla luce di quelli che ci siamo detti proprio per vedere l'applicativo e cominciare a capire e farci capire, anche farmi capire un po come funziona, quindi una demo un po più tecnica, anche alla luce di quello che è, ci siamo detti, potrebbe essere 1 1 buon punto di direi di partenza e di arrivo al tempo stesso per consentire di chiudere questa fase di assessment barra Microanalisi per e quindi riuscire ad arrivare poi a la formulazione del progetto di lancio dopo che dicevo?
+Alessandro Donnici:
+Sì, OK sì, sì, assoluta.
+Alessandro Donnici:
+In realtà, al di là di oggi, poi avremo solo il 10, no?
+Alessandro Donnici:
+La.
+Gregori Luigi:
+Sì.
+Alessandro Donnici:
+La mattinata di che avevamo previsto da presso di voi per diciamo chiudere no e poi in azienda non abbiamo messe altre non è non è un problema, se ne possono aggiungere se se.
+Gregori Luigi:
+No, no, beh, diciamo che è inutile, cioè se non ci sono cose da chiarire magari adesso cerchiamo di chiudere.
+E.
+Gregori Luigi:
+Sì.
+Guzzo Emiliano:
+Sì, leggo vorrei esserci anch'io Luigi per per la parte, il progetti e demand.
+Va bene però.
+Gregori Luigi:
+Sì, sì no, non per la parte di progetti e demand.
+Gregori Luigi:
+Se dobbiamo andare a prendere la roba confini eccetera, no sui progetti demand, io non entro quella è roba tua.
+Gregori Luigi:
+E il.
+Guzzo Emiliano:
+Per capire se è come dire, se effettivamente può essere, se se scherzava su tutte le banche immagini si no, ma in generale no.
+Per adesso, per strutturare il progetto qua, beh, vorrei vorrei seguire anch'io quindi tenetemi nel loop.
+Gregori Luigi:
+Benissimo, OK perfetto, nessun problema.
+Alessandro Donnici:
+Sì, sì, sì, allora.
+Guzzo Emiliano:
+Magari se se non se poi non riesco a partecipare alle cose, poi ci aggiorniamo internamente, però tieni tenetemi nel loop.
+Alessandro Donnici:
+Ok.
+Gregori Luigi:
+Ok, va bene.
+Alessandro Donnici:
+E per quanto riguarda la demo?
+Allora le cose da capire sono, sono due, no?
+Alessandro Donnici:
+Allora le demo, Luigi, ti interessava la parte, che cioè tu dicevi a caiano l'hai visto?
+Gregori Luigi:
+Sì.
+Alessandro Donnici:
+Senti, possiamo fare una demo, diciamo standard di prodotto?
+Per avere l'infrastruttura, l'applicazione, la parte demand e di project è così dettagliato, un po meglio anche quello che interessa Emiliano EO volevo entrare anche nel merito di tutta la parte di Asset Management.
+Alessandro Donnici:
+Fammi capire un attimo, perché devo capire anche la demo come come organizzarla?
+Gregori Luigi:
+No, allora sulla parte di Asset Management.
+Alessandro Donnici:
+Ok, quindi possiamo?
+Gregori Luigi:
+Come ti dicevo, conoscendo già il prodotto non mi servirebbe, quindi so cioè diciamo che in questo momento su quella parte lì se uno mi dicesse ha il prodotto installato comincia a caricarci dentro i dati ci viaggio.
+Gregori Luigi:
+Esatto.
+Gregori Luigi:
+Esatto.
+Alessandro Donnici:
+Ok, quindi concentriamo la demo sulla parte, diciamo pura di HDAE, infrastruttura del prodotto e vabbè demande project, che è la parte, la parte diciamo principale no e va bene, allora si può fare una demo da un'oretta e.
+Gregori Luigi:
+Eh?
+Alessandro Donnici:
+Adesso la difficoltà Eh, se farla si incastrare da qua il 10 o farla direttamente il 10 che vengo lì o dopo perché non ho spazio dove se devo essere onesto da qua a 10 sono l'agenda che scoppia.
+Gregori Luigi:
+E allora lasciamola per il 10.
+Perfe, no perfetto.
+Alessandro Donnici:
+Dedichiamo un'oretta del del della mattina del 10 direttamente da la e vi faccio vedere a un'oretta l'applicazione, poi chiudiamo come la programma in modo tale che usciamo da dal 10 con.
+Alessandro Donnici:
+EE poi andiamo avanti così.
+Gregori Luigi:
+Ok, perfetto.
+Alessandro Donnici:
+Va bene?
+E allora sì, Dimmi Dimmi, scusami.
+Guzzo Emiliano:
+Perfetto.
+Gregori Luigi:
+Va bene, Senti, ti no, Dimmi perché io mi hanno incastrato?
+Alessandro Donnici:
+Mhm.
+Guzzo Emiliano:
+Cioè?
+Gregori Luigi:
+Una riunione per alle 10 per cui mi stanno stressando di là.
+Infatti ti avevo chiesto se riuscivo ad anticipare un attimo.
+Guzzo Emiliano:
+Ok.
+Alessandro Donnici:
+C'è, purtroppo ero già impegnato.
+No, non è un problema, possiamo anche chiudere qua e l'importante è che smarchiamo l'accesso ai link perché mi si mi servirebbero quindi quello di oggi.
+Gregori Luigi:
+Guarda allora.
+Guzzo Emiliano:
+Cioè adesso adesso te la do, adesso lo facciamo, te lo faccio io e Luigi.
+Sì.
+Gregori Luigi:
+Lo fai tu, riesci a vederlo tu grazie.
+1000 intanto.
+Alessandro Donnici:
+Quindi quella di oggi è più le due più le due precedenti.
+Insomma, sì, sì, e mi si è smarcato si.
+Gregori Luigi:
+Ok, quindi abbandoniamo, allora facciamo una cosa, abbandoniamo questa.
+Guzzo Emiliano:
+Eh sì, sì, esatto, esatto, sì, sì.
+Gregori Luigi:
+Perché lui ci mette un attimo a preparare la trascrizione, trascrizione e registrazione appena sono pronte magari ci risentiamo un attimo EE smarchiamo questo tema, OK?
+Alessandro Donnici:
+Va bene, vi ringrazio.
+Gregori Luigi:
+Grazie, Ciao.
+Alessandro Donnici:
+Ciao, buona giornata, Ciao Ciao, Ciao.
+Guzzo Emiliano:
+Ottimo Ciao, grazie Ciao Ciao Ciao Ciao grazie.
