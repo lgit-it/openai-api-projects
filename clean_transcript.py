@@ -51,6 +51,6 @@ print (trasformed_text)
 
 
 #save the meeting minutes to a file
-with open('transcript.txt', 'w') as file:
+with open('data\\transcript.txt', 'w') as file:
     file.write(trasformed_text)
     

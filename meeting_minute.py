@@ -91,7 +91,7 @@ def generate_meeting_minutes(file_path):
     return '\n'.join(meeting_minutes), total_tokens
 
 # File path to the transcript
-file_path = 'transcript.txt'
+file_path = 'data\\transcript.txt'
 
 # Generate the meeting minutes
 meeting_minutes, total_tokens = generate_meeting_minutes(file_path)
